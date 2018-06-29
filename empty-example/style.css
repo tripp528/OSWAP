@@ -1,9 +1,12 @@
-body {
+html, body {
+	margin: 0;
+	padding: 0;
 	background-color: lightblue;
+	text-align: center;
 }
 h1 {
 	color: darkblue;
-	text-align: center;
+
 }
 
 
